@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="C:\Sourcecode\Other\FEMAService\publish\">
+    <file relUrl="bin/FloodService.dll.config" publishTime="08/26/2015 15:09:11" />
+    <file relUrl="bin/FloodService.pdb" publishTime="08/26/2015 15:09:11" />
+    <file relUrl="bin/FloodService.dll" publishTime="08/26/2015 15:09:11" />
+    <file relUrl="FloodService.FEMAInfo.svc" publishTime="08/26/2015 15:09:15" />
+    <file relUrl="Web.config" publishTime="08/26/2015 15:09:11" />
+  </publishTarget>
+</publishData>
